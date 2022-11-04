@@ -19,7 +19,7 @@
 
     if (window.pageYOffset > sticky) {
       header_navbar.classList.add("sticky");
-      logo.src = "assets/images/logo/logo-2.svg";
+      logo.src = "https://www.raed.net/img?id=139777";
     } else {
       header_navbar.classList.remove("sticky");
       logo.src = "https://www.raed.net/img?id=139777";
