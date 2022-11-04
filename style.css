@@ -10,9 +10,9 @@
 /*===========================
   COMMON css 
 ===========================*/
-@import url("https://fonts.googleapis.com/css?family=Poppins:400,700|Lato:300,400,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
 body {
-  font-family: "Lato", sans-serif;
+  font-family: 'Cairo', sans-serif;
   font-weight: normal;
   font-style: normal;
   color: #6A6972;
