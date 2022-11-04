@@ -22,7 +22,7 @@
       logo.src = "assets/images/logo/logo-2.svg";
     } else {
       header_navbar.classList.remove("sticky");
-      logo.src = "assets/images/logo/logo.svg";
+      logo.src = "https://www.raed.net/img?id=139777";
     }
 
     // show or hide the back-top-top button
